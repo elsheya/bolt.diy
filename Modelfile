@@ -1,2 +1,0 @@
-FROM ollama run llama3.3
-PARAMETER num_ctx 32668 
